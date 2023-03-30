@@ -23,6 +23,8 @@ None
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width=48px>   used once
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-plain.svg" width=48px>   
+Raspberry pi specialist
+DEBIAN user
 
 ```Reach Me: ```
 
